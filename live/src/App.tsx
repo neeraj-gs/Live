@@ -1,7 +1,9 @@
-export default function App() {
+import Progress from "./components/Progress"
+
+const App = () => {
   return (
-    <h1 className="">
-      Hello world!
-    </h1>
+    <Progress />
   )
 }
+
+export default App
