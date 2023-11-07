@@ -2,7 +2,7 @@ import Typewriter from 'typewriter-effect'
 
 // type Props = {}
 
-const TypeWriterTitle = (props) => {
+const TypeWriterTitle = () => {
   return (
     <Typewriter
       options={{
