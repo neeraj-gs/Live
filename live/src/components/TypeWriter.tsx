@@ -9,11 +9,9 @@ const TypeWriterTitle = (props) => {
         loop: true,
       }}
       onInit={(typewriter)=>{
-        typewriter.typeString("Working on the Project")
+        typewriter.typeString("| Working on the Project |")
         .pauseFor(500).deleteAll()
-        .typeString("Will Update with the Deployed Link Soon...")
-        .pauseFor(500).deleteAll()
-        .typeString("Do visit the site after sometime to check the website running...")
+        .typeString("| Will Update with the Deployed Link Soon... |")
         .pauseFor(500).deleteAll()
         .start()
       }}

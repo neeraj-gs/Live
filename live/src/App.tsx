@@ -2,7 +2,10 @@ import Progress from "./components/Progress"
 
 const App = () => {
   return (
-    <Progress />
+    <div className="bg-gradient-to-r min-h-screen grainy from-rose-100 to-teal-100">
+      <Progress />
+    </div>
+    
   )
 }
 
