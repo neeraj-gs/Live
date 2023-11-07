@@ -1,3 +1,4 @@
+import TypeWriterTitle from "./TypeWriter"
 
 const Progress = () => {
   return (
@@ -7,6 +8,12 @@ const Progress = () => {
           <span className='text-green-600 font-bold'> Will Be Deployed </span>  Very Soon and Accessible for Everyone.
         </h1>
         <div className="mt-4"></div>
+        <div className="font-semibold text-xl text-center text-yellow-400">
+            <TypeWriterTitle />
+        </div>
+        
+
+        
     </div>
   )
 }
