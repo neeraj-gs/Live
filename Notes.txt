@@ -1,0 +1,6 @@
+This is a Project that just shows , weather a proejct is ready and deployed or Not. 
+
+To showcase my projects in my portfolio , i need to specify if it was built and ready or Not
+
+
+
