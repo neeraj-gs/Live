@@ -10,7 +10,7 @@ const Progress = () => {
           <span className='text-green-500 font-bold'>Deployed </span>  Very Soon.
         </h1>
         <div className="mt-4"></div>
-        <div className="font-semibold text-xl text-center text-yellow-500">
+        <div className="font-extrabold text-xl text-center text-yellow-400">
             <TypeWriterTitle />
         </div>
         
